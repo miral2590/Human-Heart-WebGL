@@ -1,0 +1,17 @@
+{
+"companyName": "FeeltechDigivation",
+"productName": "Human Heart",
+"productVersion": "0.1",
+"dataUrl": "WebGL Build.data.unityweb",
+"wasmCodeUrl": "WebGL Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL Build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "WebGL Build.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.25f1"
+}

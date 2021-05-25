@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "122104760283",
+    "project_id": "ftd-human-heart",
+    "storage_bucket": "ftd-human-heart.appspot.com",
+    "firebase_url":"https://ftd-human-heart-default-rtdb.firebaseio.com/"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122104760283:android:baaf679b4a06fdeb0249fe",
+        "android_client_info": {
+          "package_name": "com.FeeltechDigivation.HumanHeart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122104760283-cas72s1tv11otf8mppejk1ivad8pill9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsghHbWnvmpKr1cVLQqcdXlVOmxnvnBbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122104760283-cas72s1tv11otf8mppejk1ivad8pill9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "122104760283-pq4oqd1jblve3c43h5g050sl0tu9nhbe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.FeeltechDigivation.HumanHeart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
